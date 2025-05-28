@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"BuildVersion": "364180",
+	"FriendlyName": "A_A_A_StarModUtilities",
+	"Description": "",
+	"Category": "UGC",
+	"CreatedBy": "Moleman2009",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"bIsMod": true
+}
